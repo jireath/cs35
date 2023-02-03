@@ -1,0 +1,40 @@
+Answer the following questions by modifying this text file.  Write
+your answers between each question.  You're not being graded or judged
+on these answers.
+
+1. What is your name?  What do you prefer to be called?
+   My name is Jimmy Nguyen and I have no preference on what I prefer to be called.
+
+
+2. Why are you taking CS35?
+   I'm taking CS35 because I am interested in pursing a Computer Science minor along
+   with a Cognitive Science major with a concentration in Artificial Intelligence.
+
+3. What is your previous experience in Computer Science?  What
+programming languages do you know, and which classes have you taken?
+   I've taken CS21 last semester and at the moment I only know python3.
+
+
+4. These are a couple questions about how you approach your assignments.
+
+  a. Do you start on your homework as soon as it is assigned or do you
+  tend to finish it right before it's due?
+  I like to start when it is assigned, maybe not do a lot of it, but I like to
+  make sure that I at least have started some of it so it isn't too stressful
+  later on.
+  
+  
+  b. When doing group work, do you prefer for your group to split your
+  work up into pieces or do you like to work together as a group
+  through as much of the material as possible?
+  I enjoy both really sometimes I like to split up and work on different sections
+  and come together and explain what we did, and other times when I don't want
+  to work alone or the work seems especially daunting I'd like to work through
+  the material together to have multiple brains tackling it.
+
+
+5. What do you consider fun?
+   For me anything can be fun! I just have to think of it as fun. But generally
+   speaking I enjoy just hanging out with people and also having my alone time
+   where I play games, read, watch shows, etc.
+
