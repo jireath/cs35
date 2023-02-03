@@ -1,0 +1,12 @@
+      7
+  4      8
+             12
+: Before rebalancing:
+      7
+  4      8
+             12
+            9
+: After rebalancing:
+      7
+  4      9
+        8 12

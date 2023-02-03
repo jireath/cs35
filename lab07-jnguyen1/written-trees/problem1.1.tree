@@ -1,0 +1,9 @@
+       6
+     4   8
+    2 5
+   1
+
+: X is the subtree starting at 2, Y is 5, and Z is 8.
+       4
+     2   6
+    1   5 8

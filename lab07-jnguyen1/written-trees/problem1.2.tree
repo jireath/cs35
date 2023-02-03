@@ -1,0 +1,13 @@
+           19
+    12              27
+  8    13       22      30
+ 6 9          21      28
+
+: X is the subtree starting at 8, Y is the nullptr initially to the left of 13,
+: and C is the nullptr to the right of 13.
+
+            19
+      13            27
+    12           22      30
+   8           21      28
+ 6   9
